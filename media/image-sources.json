@@ -1,0 +1,155 @@
+{
+  "checked_date": "2026-11-24",
+  "purpose": "黛瑞莲双语家具网站的补充氛围素材与官方视觉参考研究",
+  "scope": "补充照片不是黛瑞莲真实产品、工厂、展厅或项目照片，不应用作商品主图。用户提供画册/视频才是品牌商品事实与视觉来源。",
+  "license_summaries": {
+    "Unsplash": "所选照片的原始页面均显示可免费使用的Unsplash License。该授权允许商业用途、编辑和下载，不要求署名；不得未经显著修改直接售卖原图或据此复制同类图库服务。",
+    "Pexels": "所选照片页面显示Free，Pexels License允许商业网站使用与修改，不要求署名；不得暗示图片人物或品牌背书，不可原样售图或用于商标。"
+  },
+  "references": [
+    {
+      "brand": "Flexform",
+      "url": "https://www.flexform.it/en",
+      "observed_structure": "主站连接电影化系列叙事、2026设计师视频、场景目录与Living/Sleeping/Dining等空间入口。",
+      "applicable_pattern": "用一张强空间主视觉建立气氛，再通过起居/餐厅/卧室进入真实产品；将素材工艺内容做成短篇编辑模块。",
+      "asset_use": "参考信息结构与叙事方式，不下载或复用其商品图、文字或版式。"
+    },
+    {
+      "brand": "Poliform",
+      "url": "https://www.poliform.it/en/",
+      "observed_structure": "2026 Collection、建筑/生活方式主题、按空间及家具类型分类、可预览画册并存。",
+      "applicable_pattern": "以Collection 2026和画册入口增强系列感；中英信息分层，不在一段里混排全部字段。",
+      "asset_use": "仅参考系列组织和画册入口，不作为本站品牌或产品事实来源。"
+    },
+    {
+      "brand": "B&B Italia",
+      "url": "https://www.bebitalia.com/en-us/",
+      "observed_structure": "首页以系列主题与Product Inspirations导向具体产品，并提供门店、设计咨询和预约入口。",
+      "applicable_pattern": "大场景图可连接其中真实型号；浏览结束后接清晰预约/询价，而非虚构固定价格。",
+      "asset_use": "仅参考商品发现与咨询转化路径，不复用商品图片、型号或设计师文案。"
+    }
+  ],
+  "assets": [
+    {
+      "id": "architectural-light",
+      "filename": "architecture-brunxs.jpg",
+      "title": "Abstract Minimalist White Interior Design",
+      "description_zh": "白色建筑墙面与几何窗影，竖图，画面无家具与标识。",
+      "author": "Brunxs",
+      "author_url": "https://www.pexels.com/@brunxs/",
+      "source_page": "https://www.pexels.com/photo/art-abstract-white-design-3062948/",
+      "download_url": "https://images.pexels.com/photos/3062948/pexels-photo-3062948.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "platform": "Pexels",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "dimensions": [
+        2400,
+        3595
+      ],
+      "suggested_usage": "用于品牌理念或预约模块的建筑氛围图；不要标注为品牌展厅或项目实景。",
+      "file_bytes": 100206,
+      "commercial_use_permitted": true,
+      "attribution_required": false,
+      "visual_inspection": "已在本地打开检查：无可识别人物、品牌标识、文字或水印。",
+      "role": "supplemental_atmosphere_only",
+      "is_brand_product_photo": false
+    },
+    {
+      "id": "light-wood",
+      "filename": "wood-grain-colin-watts.jpg",
+      "title": "A close-up of a light brown wood grain texture",
+      "description_zh": "浅灰棕色平行木纹，横图，柔和自然细节。",
+      "author": "Colin Watts",
+      "author_url": "https://unsplash.com/@colinwatts",
+      "source_page": "https://unsplash.com/photos/a-close-up-of-a-light-brown-wood-grain-texture-0yfG1HXRN5U",
+      "download_url": "https://images.unsplash.com/photo-1762978902169-e5789f7b56b8?auto=format&fit=crop&fm=jpg&q=85&w=2400",
+      "platform": "Unsplash",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        2400,
+        1600
+      ],
+      "suggested_usage": "用于材质氛围或材料主题模块；不要指定木种、产地或声称为在售商品实物材质。",
+      "file_bytes": 587503,
+      "commercial_use_permitted": true,
+      "attribution_required": false,
+      "visual_inspection": "已在本地打开检查：无可识别人物、品牌标识、文字或水印。",
+      "role": "supplemental_atmosphere_only",
+      "is_brand_product_photo": false
+    },
+    {
+      "id": "cognac-leather",
+      "filename": "leather-felipe-santana.jpg",
+      "title": "brown leather",
+      "description_zh": "干邑棕色皮革细密颗粒特写，竖图，无缝线或可识别商品。",
+      "author": "Felipe Santana",
+      "author_url": "https://unsplash.com/@felipesantana",
+      "source_page": "https://unsplash.com/photos/brown-leather-xJkTCbtuqAY",
+      "download_url": "https://images.unsplash.com/photo-1571829604981-ea159f94e5ad?auto=format&fit=crop&fm=jpg&q=85&w=2400",
+      "platform": "Unsplash",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        2400,
+        3600
+      ],
+      "suggested_usage": "用于材质感受或色彩灵感；不要标注为品牌皮料样本、等级、产地或在售商品的颜色保证。",
+      "file_bytes": 2445530,
+      "commercial_use_permitted": true,
+      "attribution_required": false,
+      "visual_inspection": "已在本地打开检查：无可识别人物、品牌标识、文字或水印。",
+      "role": "supplemental_atmosphere_only",
+      "is_brand_product_photo": false
+    },
+    {
+      "id": "leather-rolls",
+      "filename": "leather-rolls-vlada-karpovich.jpg",
+      "title": "Close-Up Shot of Rolled Brown Leather",
+      "description_zh": "不同棕色皮料卷近景，浅景深，竖图。",
+      "author": "Vlada Karpovich",
+      "author_url": "https://www.pexels.com/@vlada-karpovich/",
+      "source_page": "https://www.pexels.com/photo/close-up-shot-of-rolled-brown-leather-4452515/",
+      "download_url": "https://images.pexels.com/photos/4452515/pexels-photo-4452515.jpeg?auto=compress&cs=tinysrgb&w=2400",
+      "platform": "Pexels",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "dimensions": [
+        2000,
+        3000
+      ],
+      "suggested_usage": "可作材质主题编辑配图，并注明材质意向图片；不要标注为品牌工厂、皮料仓或真实生产流程。",
+      "file_bytes": 418411,
+      "commercial_use_permitted": true,
+      "attribution_required": false,
+      "visual_inspection": "已在本地打开检查：无可识别人物、品牌标识、文字或水印。",
+      "role": "supplemental_atmosphere_only",
+      "is_brand_product_photo": false
+    },
+    {
+      "id": "concrete-texture",
+      "filename": "concrete-tina-dawson.jpg",
+      "title": "A black and white photo of a concrete wall",
+      "description_zh": "冷灰水泥质地特写，竖图，适合局部大幅材质细节。",
+      "author": "Tina Dawson",
+      "author_url": "https://unsplash.com/@leyameera",
+      "source_page": "https://unsplash.com/photos/a-black-and-white-photo-of-a-concrete-wall-jAWfDKxRraI",
+      "download_url": "https://images.unsplash.com/photo-1565710545039-46c9a7d22959?auto=format&fit=crop&fm=jpg&q=85&w=2400",
+      "platform": "Unsplash",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        2400,
+        3600
+      ],
+      "suggested_usage": "用于建筑材质的视觉对照；不作为任何在售商品的真实材质证明。",
+      "file_bytes": 2616294,
+      "commercial_use_permitted": true,
+      "attribution_required": false,
+      "visual_inspection": "已在本地打开检查：无可识别人物、品牌标识、文字或水印。",
+      "role": "supplemental_atmosphere_only",
+      "is_brand_product_photo": false
+    }
+  ],
+  "style_recommendation": "以暖象牙白、炭灰与低饱和棕色衬托画册中真实家具；空间摄影承担主叙事，材质照片只作小面积辅助。中英文采用可切换的完整语言界面，保留同一型号信息。少量细线与大留白，产品信息不叠在复杂纹理上。"
+}
